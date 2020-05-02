@@ -27,8 +27,8 @@
 - rate of flow of charge past a point, amount of charge that flows by per unit time
 - unit: Ampere `C/s`
 - often uses as synonym for charge, e.g. "current is flowing"
-- technischen Stromrichtung: direction that positive charges would flow, independent of what the actual charge carriers are, i.e. `+` to `-` in circuit
-- physikalische Stromrichtung: direction that charge carriers flow, dependent of what actual charge carriers are, i.e. if electrons then `-` to `+` in circuit
+- conventional current direction (technische Stromrichtung): direction that positive charges would flow, independent of what the actual charge carriers are, i.e. `+` to `-` in circuit
+- real current direction (physikalische Stromrichtung): direction that actual charge carriers flow, dependent on what charge carriers are, i.e. if electrons then `-` to `+` in circuit
 
 
 
