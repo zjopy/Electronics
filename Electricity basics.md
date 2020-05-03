@@ -38,6 +38,7 @@
 - choice of reference point is irrelevant since taking the difference cancels it out
 - unit: Volt `J/C`
 - negative charge is pulled towards higher voltages, positive charge is pulled towards lower voltages, i.e. in technische Stromrichtung current flows from higher voltage to lower voltage
+- voltage "at a point" implicitly sets the other point to be ground ❗️
 
 
 
@@ -56,3 +57,4 @@
 - current: water flow rate, e.g. 1l of water flows by in this tube per second
 - voltage: water pressure, pushes water in one direction, makes water do work, e.g. spin a turbine
 - charge is what flows, voltage is what makes it flow, current is how much of it flows
+- by definition alone voltage and current are not related, can have high voltage and low current, or high current and low voltage, only related by components of circuit ❗️
