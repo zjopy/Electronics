@@ -3,6 +3,7 @@
 [TOC]
 
 
+
 ## Introduction
 
 - set of physial phenomena of electrical charges
@@ -58,3 +59,9 @@
 - voltage: water pressure, pushes water in one direction, makes water do work, e.g. spin a turbine
 - charge is what flows, voltage is what makes it flow, current is how much of it flows
 - by definition alone voltage and current are not related, can have high voltage and low current, or high current and low voltage, only related by components of circuit ❗️
+
+
+
+## Resources
+
+- Wikipedia
