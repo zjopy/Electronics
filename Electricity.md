@@ -1,4 +1,4 @@
-# Electricity basics
+# Electricity
 
 [TOC]
 
