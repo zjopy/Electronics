@@ -19,8 +19,17 @@ directionality of time seems universal, but stems from big bang, not from laws o
 fundamental laws of physics do not have an arrow of time
 
 second law of thermodynamics: as time passes, entropy (disorderliness) increases, this creates the arrow of time, e.g. ice cube melts
+because more ways to be disordered than be ordered, since each state has equal probability of happening disorder is more likely to happen, entropy increases 
 
-big bang started with low entropy
+big bang started with low entropy, nobody knows why
+yesterday had lower entropy than today, by induction back to big bang
+
+low entropy in the beginning and ever increasing entropy gives rise to arrow of time
+no arrow of time in fundamental laws of physics, not inherent in the nature of reality
+arrow of space because lives near planet
+arrow of time because lives in aftermath of big bang
+
+complexity only increases in between low entropy and high entropy, e.g. milk mixing in coffe
 
 
 
@@ -38,3 +47,4 @@ Q: Wouldn’t eternalism imply that the future is determined? Hence no free will
 ## Resources
 
 - [Sean Carroll - Mysteries of Modern Physics: Time](https://www.thegreatcoursesplus.com/mysteries-of-modern-physics-time)
+- [Sean Carroll - The Big Picture: From the Big Bang to the Meaning of Life](https://www.youtube.com/watch?v=2JsKwyRFiYY)
