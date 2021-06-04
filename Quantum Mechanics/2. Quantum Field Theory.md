@@ -16,6 +16,7 @@ photons (light) is just a wave of the EM field
 this holds more generally for all particles
 particle is a wave in its field, location where field vibrates more, higher energy state
 wave is like a bundle of energy, descrete size because of descrete energy
+particle is a wave, not a particle, there is no particle-wave duality
 
 fields can interact with each other
 force is just another field
