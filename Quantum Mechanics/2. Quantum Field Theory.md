@@ -7,13 +7,14 @@
 field: fluid like substance that can ripple
 universe is made up of fields
 fields are the fundamental building blocks of the universe
+there is no "empty" space, fields are there, just in their lowest energy state, there *is* something
 
 Faraday postulated electromagnetic field
 electromagnetic field was one of the most abstract theories
 photons (light) is just a wave of the EM field
 
 this holds more generally for all particles
-particle is a wave in its field
+particle is a wave in its field, location where field vibrates more, higher energy state
 wave is like a bundle of energy, descrete size because of descrete energy
 
 fields can interact with each other
