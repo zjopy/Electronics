@@ -4,7 +4,7 @@
 
 ## Introduction
 
-given current state, can compute future but also past
+in quantum mechanics (and previously classical mechanics) given current state, can compute future, but can also compute past
     determinism, no free will
 future is not different from past
 just that humans haven't experienced future but did experience past
@@ -24,3 +24,4 @@ due to arrow of time
 ## Ressources
 
 - [Sean Carroll - The Big Picture: From the Big Bang to the Meaning of Life](https://www.youtube.com/watch?v=2JsKwyRFiYY)
+- [Sean Carroll - The Big Picture](https://www.youtube.com/watch?v=x26a-ztpQs8)
