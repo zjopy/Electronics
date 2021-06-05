@@ -19,6 +19,10 @@ at the macroscopic level can interpret as cause and effect
 a small change after whose sequence follows a big change
 due to arrow of time
 
+cause is an emergent property, high level
+on scale of atoms no such thing a choice, free will, cause and effect
+but on high level can best describe world using those concepts
+
 
 
 ## Ressources
