@@ -21,15 +21,25 @@ fundamental laws of physics do not have an arrow of time
 second law of thermodynamics: as time passes, entropy (disorderliness) increases, this creates the arrow of time, e.g. ice cube melts
 because more ways to be disordered than be ordered, since each state has equal probability of happening disorder is more likely to happen, entropy increases 
 
-big bang started with low entropy, nobody knows why
-yesterday had lower entropy than today, by induction back to big bang
+we're not at the highest entropy yet because big bang started with low entropy
+nobody knows why
 
 low entropy in the beginning and ever increasing entropy gives rise to arrow of time
 no arrow of time in fundamental laws of physics, not inherent in the nature of reality
 arrow of space because lives near planet
 arrow of time because lives in aftermath of big bang
+arrow of time emergent property, just like causality
 
-complexity only increases in between low entropy and high entropy, e.g. milk mixing in coffe
+how can life exist? complexity is not entropy
+complexity is only in middle between low entropy and high entropy state possible, e.g. milk mixing in coffe
+complexity only *because of* growing entropy
+
+height of complexity when stars stop shining
+then decreases until highest entropy state, heat death of universe
+
+life is a solution to increase entropy
+food is energy in low entropy state
+sun's rays is energy in low entropy state
 
 
 
@@ -48,3 +58,4 @@ Q: Wouldn’t eternalism imply that the future is determined? Hence no free will
 
 - [Sean Carroll - Mysteries of Modern Physics: Time](https://www.thegreatcoursesplus.com/mysteries-of-modern-physics-time)
 - [Sean Carroll - The Big Picture: From the Big Bang to the Meaning of Life](https://www.youtube.com/watch?v=2JsKwyRFiYY)
+- [Sean Carroll - The Big Picture](https://www.youtube.com/watch?v=x26a-ztpQs8)
