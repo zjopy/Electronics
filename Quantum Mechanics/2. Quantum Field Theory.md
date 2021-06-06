@@ -21,7 +21,7 @@ particle is a wave, not a particle, there is no particle-wave duality
 fields can interact with each other
 force is just another field
 universe is harmoneous dance of the fields that interact with each other
-solves spooky action at a distance that forces are in classical mechanics
+solves problem of "action at a distance" of classical mechanics, no non-local interaction through magical forces
 
 Standard Model
 12 fields that give rise to matter

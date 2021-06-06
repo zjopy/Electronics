@@ -35,7 +35,7 @@ universe splits into multiverse, each copy of observer experiences only the one 
 <!-- note: own interpretation below, Sean Carroll thinks probability that "me" ends up in a branch is given by same probability as before, but I say that both branches are "me", just evolve differently  -->
 there is no probability, just different observers in different branches, both think they're the only branch
 
-entaglement of two distant particles not because can communicate faster than light, no spooky action at a distance, but because there aren't two wave functions but only one
+entaglement of two distant particles not because can communicate faster than light, no "spooky action at a distance", but because there aren't two wave functions but only one
 there is just one big wave function, the wave function of the universe
 
 quantum mechanics replaces classical mechanics, classical mechanics is an approximation in certain limits
