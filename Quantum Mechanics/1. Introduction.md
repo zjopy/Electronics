@@ -41,9 +41,12 @@ there is just one big wave function, the wave function of the universe
 quantum mechanics replaces classical mechanics, classical mechanics is an approximation in certain limits
 nature is quantum, needs to derive classical, not other way around quantise classical
 
+if we accept the world is made of fields, quantum mechanics just says when we look at waves we see them as particles, that is the weird thing
+
 
 
 ## Resources
 
 - [Sean Carroll - A Brief History of Quantum Mechanics](https://www.youtube.com/watch?v=5hVmeOCJjOU)
 - [Sean Carroll - Something Deeply Hidden](https://www.youtube.com/watch?v=F6FR08VylO4)
+- [Sean Carroll - The Higgs Boson and Beyond](https://www.thegreatcoursesplus.com/the-higgs-boson-and-beyond)
